@@ -1,2 +1,2 @@
 # cgw-demo
-Conondale Great Walk
+A web map displaying the Conondale Great Walk route.
